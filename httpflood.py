@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 from fake_useragent import UserAgent
 import os
 
-TARGET_URL = "https://www.bugatti.com/fr"
+TARGET_URL = ""
 THREADS = 5000
 DURATION = 30
 PROXY_FILE = "proxies.txt"
